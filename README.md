@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishantdharewa
 - 👀 I’m interested in data science and business analytics 
 - 🌱 I’m currently learning about the applications of data science 
-- 💞️ I’m looking to collaborate on different projects 
+- 🤝🏻 I’m looking to collaborate on different projects 
 - 📫 You can reach me at... nishantdharewa@gmail.com
 
 <!---
